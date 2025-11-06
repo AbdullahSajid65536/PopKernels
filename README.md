@@ -8,6 +8,8 @@ The game itself is straightforward, choose a popcorn bag size and a microwave ti
 
 Needs a lot of balancing and has some bug fixes that I will address eventually... (About time I post something to my Github anyways...)
 
+### IMPORTANT NOTE: THIS MINIGAME IS ONLY SUPPORTED FOR LINUX SYSTEMS. For windows users I recommend using WSL/Docker or a VM etc. to run it. As for Mac users, since MacOS is POSIX compliant I think it may work but I cannot guarantee it.
+
 For more info, the documentation is included as part of the code, but I will paste it here verbatim.
 
 ## Welcome to Pop The Kernels! A multi-threaded minigame (pretend I inserted popcorn.jpg here)
